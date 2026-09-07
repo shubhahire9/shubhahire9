@@ -1,5 +1,7 @@
 # About Me:
-I am a third-year Computer Engineering student at Pune Institute of Computer Technology with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. I enjoy building end-to-end machine learning solutions, from geospatial crime hotspot analysis and customer segmentation to loan approval prediction and NLP-based text summarization. I have hands-on experience with Python, Scikit-learn, XGBoost, PyTorch, GeoPandas, H3, FastAPI, and Hugging Face Transformers, along with strong foundations in data preprocessing, feature engineering, model development, and exploratory data analysis. I am passionate about applying AI to solve real-world problems, continuously learning new technologies, and contributing to impactful, data-driven solutions.<br>
+I am a third-year Computer Engineering student at PICT with a strong interest in AI/ML, Data Science, and Generative AI. I enjoy building practical AI solutions and working on projects such as Insurance Enrollment Prediction, Geospatial Crime Hotspot Analysis, Customer Segmentation, and RAG-based applications.
+
+I have hands-on experience with Python, Scikit-learn, XGBoost, PyTorch, Hugging Face, LangChain, and ChromaDB. Currently, I’m focused on strengthening my AI/ML and GenAI skills and building impactful real-world projects.<br>
 
 
 ## 🌐 Socials:
